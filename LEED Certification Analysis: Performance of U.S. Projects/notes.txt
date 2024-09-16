@@ -1,0 +1,124 @@
+-Things done so far:
+	staging table columns datas validated
+	rows dropped where did not started with leed
+	points above 130 were dropped
+		There are abnormalities regarding **points** the cert levels and points given does not match
+		INCONSISTENCIES: there are small number of rows with bronze category, will drop them
+		-There are rows with category saying denied, but still flagged as certified some having remarkable points
+		For now the inconsistencies will be accepted
+
+		- for the ones formatted as 2. they are version 2/for those with the v2008 etc are v3 
+
+		**2.0 CI 21-26 | 27-31 | 32-41 | 42-57 |
+		**v2.0 scorers for Version 2.0 are Bronze: 25 to 30 points. Silver 31 to 36 points, Gold: 37 to 42 points, and Platinum: 43 points or more.
+		**v2.1 Certified 26-32 points Silver 33-38 points Gold 39-51 points Platinum 52-69 points
+		**v2.2 is Certified 26-32 | Silver 33-38 | Gold 39-51 | Platinum 52-69
+		**v2009 certified 40-49 | silver 50-59 | gold 60-79 | platinum 80+
+
+		just discard this binning
+
+
+	correctly match ownertypes
+
+
+	for the ones like v4, v4
+	for the ones that does not contain any v4
+	for the ones like 1. v1
+	for the ones like 2. v2
+	for the ones like 20 v3
+	for the ones like O&M v2
+
+
+	next up,checking the inconsistencies between certdate and registrationdate
+	checking ownertypes
+
+	Community Development Corporation o
+	Community Development Corporation or Non  as Community Development Corporation or Non-Profit
+
+	Corporate: Publicly  Traded
+	Corporate: Publicly Traded
+	Corporate:Publicly Traded as Corporate: Publicly Traded
+
+	Educational: Community College, Pri as Educational: Community College, Private
+
+	Educational: Community College, Pub as Educational: Community College, Public
+
+	Educational: Early Childhood Educat
+	Educational: Early Childhood Education/D as Educational: Early Childhood Education
+
+	Government Use: Local, Public Housi
+	Government Use: Local, Public Housing Au
+	Government Use: Local, Publlic Hous as Government Use: Local, Public Housing Authority
+
+	Government Use: Other (utility airp
+	Government Use: Other (utility, air
+	Government Use: Other (utility, airport, as Government Use: Other (utility, airport)
+
+	Investor: REIT, Non-traded
+	Investor: REIT,Non-traded
+	Investor: REIT-Non-traded
+	Investor:REIT,Non-traded as Investor: REIT, Non-traded
+
+	Investor: REIT, Publicly traded
+	Investor: REIT-Publicly traded as Investor: REIT, Publicly traded
+
+	Local Government (municipalities an
+	Local Government (municipalities and cou as Local Government (municipalities and counties)
+
+	Non-Profit (that do not fit into ot
+	Non-Profit (that do not fit into other c
+	Non-Profit (that does not fit into as Non-Profit (that do not fit into other categories)
+
+	Other, Local Government
+	Other, Individual
+	Other, Non-Profit Org.
+	Other, Profit Org.
+	Other, State Government as to change word orders like Other, Individual to Individual, Other etc.
+
+	Other, Individual, Profit Org. as Individual, Other
+
+	Provate
+	Private Developer
+	Private as Private Sector: Private Developer
+
+	Profit sector as Profit Org.
+
+	Public Private Partnership as Public-Private Partnership (PPP)
+
+	Public Sector: College or Universit as Public Sector: College or University
+
+	University as Educational: University, Private
+
+	sq ft to sq mt the areas
+
+	will do 23 sq mt as a minimum treshold for the grossfloorarea
+	50 sq min 10 mill top for totalprop
+
+
+	tidy up and extract project types
+
+
+	--ANALYSIS PHASE--
+
+	the average timeline infos are just looking off? seems alright
+
+
+
+	views so far
+
+	vw_LeedVersionDistribution
+	vw_AvgPointsByLeedVersion
+	vw_CertificationTimelineByLeedVersion
+	vw_CertificationLevelDistribution
+	vw_YearlyGrowthRateByLeedVersion
+	vw_CumulativeAdoptionByLeedVersion
+		PreprocessedProjectTypes
+		ProjectTypeKeywordCounts
+	ProjectTypeTopKeywordsCertLevel_norm
+	GrossFloorAreaCertLevelImpact
+	StateLevelLEEDDistribution
+	ClimateZoneLEEDAnalysis
+	DetailedOwnerTypeImpactWithTotals
+	OwnerOrganizationAnalysis
+
+views are sufficient for transferring to the power bi 
