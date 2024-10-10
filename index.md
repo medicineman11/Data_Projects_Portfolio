@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<meta meta charset="UTF-8">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
 <style>
 <!--
@@ -109,10 +109,6 @@ ul
   <td width=737 colspan=4 style='width:552.85pt;padding:0cm 0cm 0cm 0cm;
   height:68.05pt'>
   <p class=Name><span style='font-size:12.0pt'>�</span></p>
-  <p class=Name><img width=248 height=57
-  src="assets/Ali_Firat_Surucu_CV_filtered_files/image001.gif" align=left hspace=12
-  vspace=5
-  alt="Ali F�rat S�r�c�/Izmir-Gaziantep&#13;&#10;0 (532) 410 95 66/&#13;&#10;taurobolium1@gmail.com&#13;&#10;"></p>
   </td>
  </tr>
  <tr style='height:3.0pt'>
@@ -124,9 +120,6 @@ ul
  <tr style='height:15.25pt'>
   <td width=737 colspan=4 valign=top style='width:552.85pt;border:none;
   padding:0cm 0cm 0cm 0cm;height:15.25pt'>
-  <p class=MsoNormal><span style='position:relative;z-index:251662336'><span
-  style='position:absolute;left:202px;top:-163px;width:2px;height:1401px'><img
-  width=1 height=934 src="assets/Ali_Firat_Surucu_CV_filtered_files/image002.gif"></span></span></p>
   </td>
  </tr>
  <tr style='height:43.4pt'>
@@ -341,9 +334,7 @@ ul
    <li class=MsoNormal>Applied machine learning for keyword extraction and
        statistical tests to explore relationships between product categories
        and risks.</li>
-   <li class=MsoNormal><span style='position:absolute;z-index:251668480;
-       left:0px;margin-left:-5px;margin-top:612px;width:2px;height:1407px'><img
-       width=1 height=938 src="asssets/Ali_Firat_Surucu_CV_filtered_files/image003.gif"></span>Created
+   <li class=MsoNormal>Created
        dynamic visualizations that highlighted trends in food safety challenges
        and geographical distributions of risks.</li>
   </ul>
