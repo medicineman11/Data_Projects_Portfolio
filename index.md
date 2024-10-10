@@ -126,7 +126,7 @@ ul
   padding:0cm 0cm 0cm 0cm;height:15.25pt'>
   <p class=MsoNormal><span style='position:relative;z-index:251662336'><span
   style='position:absolute;left:202px;top:-163px;width:2px;height:1401px'><img
-  width=1 height=934 src="Ali_Firat_Surucu_CV_filtered_files/image002.gif"></span></span></p>
+  width=1 height=934 src="assets/Ali_Firat_Surucu_CV_filtered_files/image002.gif"></span></span></p>
   </td>
  </tr>
  <tr style='height:43.4pt'>
@@ -343,7 +343,7 @@ ul
        and risks.</li>
    <li class=MsoNormal><span style='position:absolute;z-index:251668480;
        left:0px;margin-left:-5px;margin-top:612px;width:2px;height:1407px'><img
-       width=1 height=938 src="Ali_Firat_Surucu_CV_filtered_files/image003.gif"></span>Created
+       width=1 height=938 src="asssets/Ali_Firat_Surucu_CV_filtered_files/image003.gif"></span>Created
        dynamic visualizations that highlighted trends in food safety challenges
        and geographical distributions of risks.</li>
   </ul>
