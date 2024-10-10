@@ -103,7 +103,7 @@ ul
 
 <p class=MsoNormal>&nbsp;</p>
 
-<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width =737
  style='border-collapse:collapse'>
  <tr style='height:68.05pt'>
   <td width=737 colspan=4 style='width:552.85pt;padding:0cm 0cm 0cm 0cm;
