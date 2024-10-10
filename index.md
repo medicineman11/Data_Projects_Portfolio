@@ -103,7 +103,7 @@ ul
 
 <p class=MsoNormal>&nbsp;</p>
 
-<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width =737
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse'>
  <tr style='height:68.05pt'>
   <td width=737 colspan=4 style='width:552.85pt;padding:0cm 0cm 0cm 0cm;
@@ -309,7 +309,7 @@ ul
   <td width=24 valign=top style='width:18.0pt;padding:0cm 0cm 0cm 0cm'>
   <p class=MsoNormal>&nbsp;</p>
   </td>
-  <td width=58 valign=top style='width:43.7pt;padding:0cm 0cm 0cm 0cm'>
+  <td width=58 valign=top style='width:43.45pt;padding:0cm 0cm 0cm 0cm'>
   <p class=MsoNormal>‘24</p>
   </td>
   <td width=529 valign=top style='width:14.0cm;padding:0cm 0cm 0cm 0cm'>
