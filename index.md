@@ -277,7 +277,7 @@ ul
   </td>
   <td width=529 valign=top style='width:14.0cm;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 0cm 0cm 0cm;height:4.8pt'>
-  <h2>Gaziantep Kolej Vakfý | High School</h2>
+  <h2>Gaziantep Kolej Vakfı | High School</h2>
   </td>
  </tr>
 </table>
