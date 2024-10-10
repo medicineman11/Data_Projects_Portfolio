@@ -1,6 +1,5 @@
 # Basic site settings
 title: "Ali Fırat Sürücü"
 description: "Data Analyst | Architect" 
-show_downloads: true
 theme: jekyll-theme-minimal # The theme we’re using (Minimal)
 markdown: kramdown
