@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<meta meta charset="UTF-8">
+<meta http-equiv=Content-Type content="text/html; charset=Windows-1254">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
 <style>
 <!--
