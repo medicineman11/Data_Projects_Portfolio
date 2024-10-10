@@ -1,0 +1,10 @@
+# Basic site settings
+title: "Ali Fırat Sürücü"
+description: "My detailed CV and portfolio"
+theme: jekyll-theme-minimal # The theme we’re using (Minimal)
+markdown: kramdown
+show_downloads: true
+
+# Navigation settings
+header_pages:
+  - index.md # List all pages you want in the navigation header
