@@ -4,4 +4,4 @@ title: Home
 ---
 
 
-# trying out the page whether its rendering at all
+<iframe src="/assets/Ali_Firat_Surucu_CV_filtered.htm" width="100%" height="1000px" style="border: none;"></iframe>
