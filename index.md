@@ -165,7 +165,7 @@ ul
   </td>
   <td width=58 valign=top style='width:43.45pt;padding:0cm 0cm 0cm 0cm;
   height:5.0cm'>
-  <p class=MsoNormal>spring24</p>
+  <p class=MsoNormal>spring'24</p>
   </td>
   <td width=529 valign=top style='width:14.0cm;padding:0cm 0cm 0cm 0cm;
   height:5.0cm'>
@@ -221,7 +221,7 @@ ul
   </td>
   <td width=58 valign=top style='width:43.45pt;padding:0cm 0cm 0cm 0cm;
   height:63.0pt'>
-  <p class=MsoNormal>fall22 </p>
+  <p class=MsoNormal>fall'22 </p>
   <p class=MsoNormal>&nbsp;</p>
   </td>
   <td width=529 valign=top style='width:14.0cm;padding:0cm 0cm 0cm 0cm;
@@ -496,7 +496,7 @@ ul
   </td>
   <td width=473 valign=top style='width:355.1pt;padding:0cm 0cm 0cm 0cm'>
   <p class=MsoNormal><b>Microsoft Certified: Power BI Data Analyst Associate,</b></p>
-  <p class=MsoNormal><b>DataCamp: Data Analyst</b></p>
+  <p class=MsoNormal><b>DataCamp: Data Analyst Professional</b></p>
   </td>
  </tr>
 </table>
