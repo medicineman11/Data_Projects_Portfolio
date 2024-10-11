@@ -1,5 +1,3 @@
-{% raw %}
-
 <html>
 
 <head>
@@ -45,6 +43,10 @@ h3
 	font-size:9.0pt;
 	font-family:"Century Gothic",sans-serif;
 	font-weight:normal;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	font-size:9.0pt;
+	font-family:"Century Gothic",sans-serif;}
 a:link, span.MsoHyperlink
 	{color:blue;
 	text-decoration:underline;}
@@ -76,11 +78,6 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	margin-left:36.0pt;
 	font-size:9.0pt;
 	font-family:"Century Gothic",sans-serif;}
-p.Name, li.Name, div.Name
-	{mso-style-name:Name;
-	margin:0cm;
-	font-size:36.0pt;
-	font-family:"Century Gothic",sans-serif;}
 .MsoChpDefault
 	{font-size:10.0pt;}
  /* Page Definitions */
@@ -107,23 +104,6 @@ ul
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse'>
- <tr style='height:68.05pt'>
-  <td width=737 colspan=4 style='width:552.85pt;padding:0cm 0cm 0cm 0cm;
-  height:68.05pt'>
-  <p class=Name><span style='font-size:12.0pt'> </span></p>
-  </td>
- </tr>
- <tr style='height:3.0pt'>
-  <td width=737 colspan=4 valign=top style='width:552.85pt;border:none;
-  border-bottom:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:3.0pt'>
-  <p class=MsoNormal>&nbsp;</p>
-  </td>
- </tr>
- <tr style='height:15.25pt'>
-  <td width=737 colspan=4 valign=top style='width:552.85pt;border:none;
-  padding:0cm 0cm 0cm 0cm;height:15.25pt'>
-  </td>
- </tr>
  <tr style='height:43.4pt'>
   <td width=126 valign=top style='width:94.5pt;padding:0cm 0cm 0cm 0cm;
   height:43.4pt'>
@@ -185,7 +165,7 @@ ul
   </td>
   <td width=58 valign=top style='width:43.45pt;padding:0cm 0cm 0cm 0cm;
   height:5.0cm'>
-  <p class=MsoNormal>spring’24</p>
+  <p class=MsoNormal>spring�24</p>
   </td>
   <td width=529 valign=top style='width:14.0cm;padding:0cm 0cm 0cm 0cm;
   height:5.0cm'>
@@ -195,28 +175,28 @@ ul
   Aside from a concise and holistic education in computer science, Versed in
   related field such as;</p>
   <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt'><span
-  style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font-family:Symbol'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><b><span style='color:#15128A'>Database systems</span></b> and
   programming principles with practical work in <b><span style='color:#15128A'>T-SQL</span></b>.</p>
   <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-  style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font-family:Symbol'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><b><span style='color:#15128A'>Data mining</span></b><span
   style='color:#15128A'> </span>fundamentals, including <b><span
   style='color:#15128A'>models, clustering, decision trees, and web mining</span></b>
   using <b><span style='color:#15128A'>R</span></b> for practical applications.</p>
   <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'><span
-  style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font-family:Symbol'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><b><span style='color:#15128A'>Big data </span></b>and <b><span
   style='color:#15128A'>cloud-based</span></b><span style='color:#15128A'> </span>development.</p>
   <p class=MsoNormal>&nbsp;</p>
   <p class=MsoNormal>Complemented and practiced the presented contents with;</p>
-  <p class=MsoNormal>        Harvard University (edX) | <b><span
+  <p class=MsoNormal>������� Harvard University (edX) | <b><span
   style='color:#15128A'>CS50</span></b>:</p>
   <p class=MsoListParagraph style='text-indent:-18.0pt'><span style='font-family:
-  Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span>Comprehensive hands-on projects in C, Python, and SQL, covering
   foundational computer science concepts.</p>
-  <p class=MsoNormal>        <b><span style='color:#15128A'>DataCamp</span></b>
+  <p class=MsoNormal>������� <b><span style='color:#15128A'>DataCamp</span></b>
   | Specialized Courses in Data Analysis;</p>
   <ul style='margin-top:0cm' type=disc>
    <li class=MsoNormal>Practical training in <b><span style='color:#15128A'>Python</span></b>,
@@ -241,15 +221,15 @@ ul
   </td>
   <td width=58 valign=top style='width:43.45pt;padding:0cm 0cm 0cm 0cm;
   height:63.0pt'>
-  <p class=MsoNormal>fall’22                        </p>
+  <p class=MsoNormal>fall�22����������������������� </p>
   <p class=MsoNormal>&nbsp;</p>
   </td>
   <td width=529 valign=top style='width:14.0cm;padding:0cm 0cm 0cm 0cm;
   height:63.0pt'>
-  <p class=MsoNormal><b><span style='color:#B8207A'>Yıldız Technical University</span></b><b>
+  <p class=MsoNormal><b><span style='color:#B8207A'>Y�ld�z Technical University</span></b><b>
   |B.ARCH Architecture (% 100 ENG)</b></p>
   <p class=MsoListParagraph style='text-indent:-18.0pt;text-autospace:none'><span
-  style='font-family:Symbol;color:black'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font-family:Symbol;color:black'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style='color:black'>Studied architecture, focusing on </span><b><span
   style='color:#B8207A'>historical contexts</span></b><span style='color:black'>,
   </span><b><span style='color:#B8207A'>sustainable design</span></b><span
@@ -257,7 +237,7 @@ ul
   style='color:black'>.</span></p>
   <p class=MsoNormal style='text-autospace:none'><span style='color:black'>&nbsp;</span></p>
   <p class=MsoListParagraph style='text-indent:-18.0pt;text-autospace:none'><span
-  style='font-family:Symbol;color:black'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='font-family:Symbol;color:black'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style='color:black'>Applied design research through
   projects and gained </span><b><span style='color:#B8207A'>multidisciplinary
   skills</span></b><span style='color:black'> in technical planning.</span></p>
@@ -275,11 +255,11 @@ ul
   </td>
   <td width=58 valign=top style='width:43.45pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 0cm 0cm 0cm;height:4.8pt'>
-  <p class=MsoNormal>‘15</p>
+  <p class=MsoNormal>�15</p>
   </td>
   <td width=529 valign=top style='width:14.0cm;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 0cm 0cm 0cm;height:4.8pt'>
-  <h2>Gaziantep Kolej Vakfı | High School</h2>
+  <h2>Gaziantep Kolej Vakf� | High School</h2>
   </td>
  </tr>
 </table>
@@ -311,8 +291,8 @@ ul
   <td width=24 valign=top style='width:18.0pt;padding:0cm 0cm 0cm 0cm'>
   <p class=MsoNormal>&nbsp;</p>
   </td>
-  <td width=58 valign=top style='width:43.45pt;padding:0cm 0cm 0cm 0cm'>
-  <p class=MsoNormal>‘24</p>
+  <td width=58 valign=top style='width:43.7pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal>�24</p>
   </td>
   <td width=529 valign=top style='width:14.0cm;padding:0cm 0cm 0cm 0cm'>
   <p class=MsoNormal><b><span style='color:#15128A'>Export Exposure: Analyzing
@@ -328,7 +308,7 @@ ul
   machine learning (RAKE for keyword extraction), statistical analysis
   (chi-squared tests), data visualization with Plotly.</p>
   <p class=MsoNormal>&nbsp;</p>
-  <p class=MsoNormal> <b>Key Achievements</b>:</p>
+  <p class=MsoNormal>�<b>Key Achievements</b>:</p>
   <ul style='margin-top:0cm' type=disc>
    <li class=MsoNormal>Scraped and processed over 20,000 food safety records,
        identifying key hazard patterns like aflatoxins and pesticide residues
@@ -336,13 +316,12 @@ ul
    <li class=MsoNormal>Applied machine learning for keyword extraction and
        statistical tests to explore relationships between product categories
        and risks.</li>
-   <li class=MsoNormal>Created
-       dynamic visualizations that highlighted trends in food safety challenges
-       and geographical distributions of risks.</li>
+   <li class=MsoNormal>Created dynamic visualizations that highlighted trends
+       in food safety challenges and geographical distributions of risks.</li>
   </ul>
   <p class=MsoNormal style='margin-left:36.0pt'>&nbsp;</p>
   <p class=MsoNormal><b>Outcome</b>:</p>
-  <p class=MsoNormal>Provided actionable insights into Turkey’s food safety
+  <p class=MsoNormal>Provided actionable insights into Turkey�s food safety
   issues in EU trade, with data-driven recommendations for risk management and
   improvement.</p>
   <p class=MsoNormal>&nbsp;</p>
@@ -356,7 +335,7 @@ ul
   <p class=MsoNormal>&nbsp;</p>
   </td>
   <td width=58 valign=top style='width:43.7pt;padding:0cm 0cm 0cm 0cm'>
-  <p class=MsoNormal>‘24</p>
+  <p class=MsoNormal>�24</p>
   </td>
   <td width=529 valign=top style='width:14.0cm;padding:0cm 0cm 0cm 0cm'>
   <h3 style='margin-left:0cm;text-indent:0cm'><b><span style='color:#15128A'>LEED
@@ -404,7 +383,7 @@ ul
   <p class=MsoNormal>&nbsp;</p>
   </td>
   <td width=58 valign=top style='width:43.7pt;padding:0cm 0cm 0cm 0cm'>
-  <p class=MsoNormal>’22 - ‘24</p>
+  <p class=MsoNormal>�22 - �24</p>
   </td>
   <td width=529 valign=top style='width:14.0cm;padding:0cm 0cm 0cm 0cm'>
   <p class=MsoNormal><b><span style='color:#B8207A'>Freelance Architect:</span></b></p>
@@ -531,5 +510,3 @@ ul
 </body>
 
 </html>
-
-{% raw %}
