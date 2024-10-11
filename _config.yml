@@ -1,5 +1,6 @@
 # Basic site settings
 title: "Ali Fırat Sürücü"
 description: "Data Analyst | Architect" 
+logo: /assets/grayscaleapp.png
 theme: jekyll-theme-minimal # The theme we’re using (Minimal)
 markdown: kramdown
