@@ -1,1 +1,84 @@
+/* Reset some basic elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set font */
+body {
+    font-family: "Century Gothic", Arial, sans-serif;
+}
+
+/* Header styling */
+header {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+    font-weight: bold;
+}
+
+header nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+/* Sidebar (fixed profile section) */
+.sidebar {
+    position: fixed;
+    top: 60px; /* Adjust this to leave room for the header */
+    left: 0;
+    width: 250px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    height: 100%;
+    overflow: auto;
+}
+
+.sidebar img {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* CV content styling */
+.cv-content {
+    margin-left: 270px; /* Width of the sidebar + some padding */
+    padding: 20px;
+    overflow-y: scroll;
+    max-height: calc(100vh - 100px); /* Adjust height based on header/footer */
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    font-size: 14px;
+}
+
+/* Styling for bold headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Century Gothic", Arial, sans-serif;
+    font-weight: bold;
+}
+
+/* Styling for any other important sections */
+.important-text {
+    font-family: "Century Gothic", Arial, sans-serif;
+    font-weight: bold;
+}
 
