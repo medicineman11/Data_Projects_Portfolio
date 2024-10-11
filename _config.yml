@@ -4,4 +4,3 @@ description: "Data Analyst | Architect"
 logo: assets/grayscalepp.png
 show_downloads: = true
 theme: jekyll-theme-minimal # The theme we’re using (Minimal)
-markdown: kramdown
