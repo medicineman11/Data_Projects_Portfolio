@@ -2,54 +2,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <html>
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=Windows-1254">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
-<style>
-    table {
-        width: 100%;
-        max-width: 552.85pt; /* Match the largest width across tables */
-    }
-    td {
-        padding: 0;
-        margin: 0;
-    }
-  </style>
 <style>
 <!--
  /* Font Definitions */
@@ -150,7 +107,7 @@ ul
 <p class=MsoNormal>&nbsp;</p>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
- style='border-collapse:collapse'>
+ width="737" style="width:552.85pt;border-collapse:collapse">
  <tr style='height:43.4pt'>
   <td width=126 valign=top style='width:94.5pt;padding:0cm 0cm 0cm 0cm;
   height:43.4pt'>
